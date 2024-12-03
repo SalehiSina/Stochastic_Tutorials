@@ -12,3 +12,9 @@ https://colab.research.google.com/drive/1LToMgsuOimRN1K4ebejc2xEzzu5Riwq2?usp=sh
 
 Tutorial_04 google colab link:
 https://colab.research.google.com/drive/16x7IJ3edufItHckUm4ul0eo05gv_piBM?usp=sharing
+
+Solution_04 google colab link:
+https://colab.research.google.com/drive/169IovDPHVNk9a6WiYtIhNvX_-3apzwpo?usp=sharing
+
+Tutorial_05 google colab link:
+https://colab.research.google.com/drive/10XeCF0LfySgTRbifmb3R2UDlo0bNyC91?usp=sharing
