@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/169IovDPHVNk9a6WiYtIhNvX_-3apzwpo?usp=sh
 
 Tutorial_05 google colab link:
 https://colab.research.google.com/drive/10XeCF0LfySgTRbifmb3R2UDlo0bNyC91?usp=sharing
+
+Tutorial_06 google colab link:
+https://colab.research.google.com/drive/1rEsscSBdJYlUjG_lz2-oZ6mdEfjmTnYX?usp=sharing
