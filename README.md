@@ -21,3 +21,6 @@ https://colab.research.google.com/drive/10XeCF0LfySgTRbifmb3R2UDlo0bNyC91?usp=sh
 
 Tutorial_06 google colab link:
 https://colab.research.google.com/drive/1rEsscSBdJYlUjG_lz2-oZ6mdEfjmTnYX?usp=sharing
+
+Tutorial_07 google colab link:
+https://colab.research.google.com/drive/1hX2_YDaGQuMmT1Wn6go_Ev6wmW4yICvK?usp=sharing
